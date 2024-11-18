@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lone-wolf1045 aka Hasanul Banna Shadhin
+- 👋 Hi, I’m Hasanul Banna Shadhin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about html,css,js
 - 💞️ I’m looking to collaborate on ...
